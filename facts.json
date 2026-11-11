@@ -1,0 +1,243 @@
+{
+ "project": "One Chuan Grove",
+ "url": "https://the-one-chuan-grove.sg/",
+ "verified": "2026-11-11",
+ "author": {
+  "name": "Jack Leow",
+  "cea": "R074023I",
+  "agency": "PropNex Realty Pte Ltd",
+  "phone": "+65 8062 1538"
+ },
+ "unit_mix": [
+  {
+   "type": "1 Bedroom",
+   "units": 3,
+   "min_sqft": 474,
+   "max_sqft": 474
+  },
+  {
+   "type": "2 Bedroom / 2 Bedroom + Study",
+   "units": 471,
+   "min_sqft": 581,
+   "max_sqft": 710
+  },
+  {
+   "type": "3 Bedroom / 3 Bedroom Flexi",
+   "units": 315,
+   "min_sqft": 807,
+   "max_sqft": 1001
+  },
+  {
+   "type": "4 Bedroom",
+   "units": 240,
+   "min_sqft": 1076,
+   "max_sqft": 1356
+  },
+  {
+   "type": "5 Bedroom",
+   "units": 27,
+   "min_sqft": 1561,
+   "max_sqft": 1561
+  }
+ ],
+ "facts": [
+  {
+   "fact": "Name",
+   "value": "One Chuan Grove",
+   "status": "Confirmed",
+   "source": "https://www.edgeprop.sg/property-news/gls-plots-chuan-grove-and-former-raffles-town-club-site-released-can-yield-930-and-250-residential"
+  },
+  {
+   "fact": "Developer",
+   "value": "Chuan Grove Pte Ltd (Sing Holdings Residential 65%, Sunway Developments 35%)",
+   "status": "Confirmed",
+   "source": "https://theedgemalaysia.com/node/763048"
+  },
+  {
+   "fact": "Tenure",
+   "value": "99-year leasehold",
+   "status": "Confirmed",
+   "source": "https://www.edgeprop.sg/property-news/sing-holdings-sunway-developments-jv-tops-seven-bids-chuan-grove-gls-site-1376-psf-ppr"
+  },
+  {
+   "fact": "Location",
+   "value": "Chuan Grove, off Lorong Chuan, District 19, OCR",
+   "status": "Confirmed",
+   "source": "https://www.edgeprop.sg/property-news/sing-holdings-sunway-developments-jv-tops-seven-bids-chuan-grove-gls-site-1376-psf-ppr"
+  },
+  {
+   "fact": "Parcel 1",
+   "value": "170,409 sq ft; $703.60m; $1,376 psf ppr; 7 bids; tender closed 8 Jul 2025",
+   "status": "Confirmed",
+   "source": "https://www.edgeprop.sg/property-news/sing-holdings-sunway-developments-jv-tops-seven-bids-chuan-grove-gls-site-1376-psf-ppr"
+  },
+  {
+   "fact": "Parcel 1 award",
+   "value": "Awarded 17 Jul 2025",
+   "status": "Confirmed",
+   "source": "https://theedgemalaysia.com/node/763048"
+  },
+  {
+   "fact": "Parcel 2",
+   "value": "156,231 sq ft; GFA 468,693 sq ft; $623.91m; $1,331 psf ppr; 5 bids; awarded 10 Sep 2025",
+   "status": "Confirmed",
+   "source": "https://www.99.co/singapore/insider/sing-holdings-sunway-second-chuan-grove-gls/"
+  },
+  {
+   "fact": "Combined GFA",
+   "value": "979,924 sq ft; in-principle amalgamation approval; construction from 2H 2026",
+   "status": "Confirmed",
+   "source": "https://www.edgeprop.sg/property-news/sing-holdings-prepares-massive-chuan-grove-project-after-record-2025-profit-north-gaia-ec"
+  },
+  {
+   "fact": "Blended land rate",
+   "value": "$1,355 psf ppr (our division of total price by GFA)",
+   "status": "Estimate",
+   "source": "https://www.edgeprop.sg/property-news/sing-holdings-prepares-massive-chuan-grove-project-after-record-2025-profit-north-gaia-ec"
+  },
+  {
+   "fact": "Homes",
+   "value": "1,056 apartments; one 24-storey and four 27-storey blocks",
+   "status": "Confirmed",
+   "source": "https://singholdings.com/projects/one-chuan-grove/"
+  },
+  {
+   "fact": "Expected launch",
+   "value": "February 2027 (Huttons, via EdgeProp)",
+   "status": "Confirmed",
+   "source": "https://www.edgeprop.sg/property-news/gls-plots-chuan-grove-and-former-raffles-town-club-site-released-can-yield-930-and-250-residential"
+  },
+  {
+   "fact": "Preview / booking",
+   "value": "13 Feb / 27 Feb 2027 (developer preliminary information as reported)",
+   "status": "Reported",
+   "source": "https://propertyreviewsg.com/one-chuan-grove/"
+  },
+  {
+   "fact": "Unit sizes",
+   "value": "474 – 1,561 sq ft; shops 409 sq ft",
+   "status": "Confirmed",
+   "source": "https://singholdings.com/projects/one-chuan-grove/"
+  },
+  {
+   "fact": "Other uses",
+   "value": "7 shops, 1 childcare centre",
+   "status": "Confirmed",
+   "source": "https://singholdings.com/projects/one-chuan-grove/"
+  },
+  {
+   "fact": "Unit mix",
+   "value": "1BR 3 · 2BR 471 · 3BR 315 · 4BR 240 · 5BR 27",
+   "status": "Reported",
+   "source": "https://propertyreviewsg.com/one-chuan-grove/"
+  },
+  {
+   "fact": "Facilities (partial)",
+   "value": "1,300 sq ft gym, 2 golf simulators, indoor air-conditioned badminton/pickleball court; 5BR with private lift; childcare ≈10,000 sq ft",
+   "status": "Reported",
+   "source": "https://propertyreviewsg.com/one-chuan-grove/"
+  },
+  {
+   "fact": "Layouts",
+   "value": "11 layouts: 2BR 48 / Premium 209 / Premium+Study 214; 3BR 210 / Premium 24 / Premium+Flexi 81; 4BR 51 / Premium 108 / Luxury 81; 5BR Luxury 27; 1BR 3",
+   "status": "Reported",
+   "source": "https://livefree.sg/project/one-chuan-grove/"
+  },
+  {
+   "fact": "Facilities (full list)",
+   "value": "50 m lap pool, spa and relaxation pools, hot/cold baths, steam room, tennis, 2 padel, outdoor pickleball, indoor badminton/pickleball, 2 golf simulators, 1,300 sq ft gym, Pilates and yoga studios, 800 m jogging path, 2 private dining rooms, 4 gourmet pavilions",
+   "status": "Reported",
+   "source": "https://one-chuan-grove.com.sg/"
+  },
+  {
+   "fact": "Car park",
+   "value": "About 800 lots",
+   "status": "Reported",
+   "source": "https://livefree.sg/project/one-chuan-grove/"
+  },
+  {
+   "fact": "Showflat",
+   "value": "Youngberg Terrace, near Woodleigh MRT (one marketing source)",
+   "status": "Reported",
+   "source": "https://propertyreviewsg.com/one-chuan-grove/"
+  },
+  {
+   "fact": "Basement car parks",
+   "value": "2 (reported from project signboard)",
+   "status": "Reported",
+   "source": null
+  },
+  {
+   "fact": "Consultants",
+   "value": "Architect P&T Consultants; builder Kimly Construction (reported from project signboard)",
+   "status": "Reported",
+   "source": null
+  },
+  {
+   "fact": "Expected completion",
+   "value": "16 Jul 2030 (reported from project signboard)",
+   "status": "Reported",
+   "source": null
+  },
+  {
+   "fact": "Nearest MRT",
+   "value": "Lorong Chuan CC14, within about 400 m",
+   "status": "Confirmed",
+   "source": "https://theedgemalaysia.com/node/763048"
+  },
+  {
+   "fact": "Circle Line loop",
+   "value": "CCL6 opened 12 Jul 2026",
+   "status": "Confirmed",
+   "source": "https://www.lta.gov.sg/content/ltagov/en/newsroom/2026/5/news-releases/circle-line-stage-6-to-open-for-public-preview-on-4-july-2026.html"
+  },
+  {
+   "fact": "Schools within 1 km",
+   "value": "St. Gabriel's, Kuo Chuan Presbyterian, CHIJ OLGC, Yangzheng (reported)",
+   "status": "Reported",
+   "source": "https://www.99.co/singapore/insider/sing-holdings-sunway-second-chuan-grove-gls/"
+  },
+  {
+   "fact": "Analyst price range",
+   "value": "≈ $2,600 (PropNex) to $2,800 (SRI) psf; some commentary to $2,850",
+   "status": "Estimate",
+   "source": "https://www.99.co/singapore/insider/sing-holdings-sunway-second-chuan-grove-gls/"
+  },
+  {
+   "fact": "Chuan Park",
+   "value": "916 homes; 76% sold at launch, $2,579 psf; 99% at $2,594 psf by 27 Oct 2026",
+   "status": "Confirmed",
+   "source": "https://www.edgeprop.sg/property-news/gls-plots-chuan-grove-and-former-raffles-town-club-site-released-can-yield-930-and-250-residential"
+  },
+  {
+   "fact": "Thomson Reserve",
+   "value": "1,143 of 1,268 sold, ≈ $2,900 psf, 30–31 Oct 2026",
+   "status": "Confirmed",
+   "source": "https://www.99.co/singapore/insider/thomson-reserve-launch-sales/"
+  },
+  {
+   "fact": "Reserve List site",
+   "value": "31,695.7 sqm; GFA 79,240 sqm; ≈ 930 homes; released 27 Oct 2026",
+   "status": "Confirmed",
+   "source": "https://www.ura.gov.sg/land-sales/sites-for-application/chuan-grove-oct26/"
+  },
+  {
+   "fact": "Chuan Park resale",
+   "value": "Caveats centred around $2,650–2,700 psf, 12 months to Aug 2026",
+   "status": "Reported",
+   "source": "https://shioknest.com/property/chuan-park"
+  },
+  {
+   "fact": "Jack's price bands",
+   "value": "Good value ≤ $2,650 psf; Fair $2,650–2,800; Stretch > $2,800 (project average)",
+   "status": "Estimate",
+   "source": null
+  },
+  {
+   "fact": "Buying through an agent",
+   "value": "Same developer list price; developer pays the agent's commission; buyers pay no agent fee",
+   "status": "Confirmed",
+   "source": null
+  }
+ ]
+}
