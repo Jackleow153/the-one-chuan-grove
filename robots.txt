@@ -49,6 +49,12 @@ Allow: /
 
 User-agent: *
 Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
 Disallow: /thank-you/
 
 Sitemap: https://the-one-chuan-grove.sg/sitemap.xml
+
+# Fact files for AI assistants:
+# https://the-one-chuan-grove.sg/llms.txt
+# https://the-one-chuan-grove.sg/llms-full.txt
