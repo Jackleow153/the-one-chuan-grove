@@ -104,7 +104,7 @@
   {
    "fact": "Expected launch",
    "value": "February 2027 (Huttons, via EdgeProp)",
-   "status": "Confirmed",
+   "status": "Reported",
    "source": "https://www.edgeprop.sg/property-news/gls-plots-chuan-grove-and-former-raffles-town-club-site-released-can-yield-930-and-250-residential"
   },
   {
@@ -241,8 +241,8 @@
   },
   {
    "fact": "Buying through an agent",
-   "value": "Same developer list price; developer pays the agent's commission; buyers pay no agent fee",
-   "status": "Confirmed",
+   "value": "Same developer list price; developer pays the agent's commission; buyers pay no agent fee. Not stated on the Sing Holdings project page.",
+   "status": "Reported",
    "source": null
   }
  ]

@@ -15,7 +15,7 @@ Each fact is labelled Confirmed (URA, LTA, SGX/Bursa filings, major press), Repo
 - Combined GFA: 979,924 sq ft; in-principle amalgamation approval; construction from 2H 2026 [Confirmed]
 - Blended land rate: $1,355 psf ppr (our division of total price by GFA) [Estimate]
 - Homes: 1,056 apartments; one 24-storey and four 27-storey blocks [Confirmed]
-- Expected launch: February 2027 (Huttons, via EdgeProp) [Confirmed]
+- Expected launch: February 2027 (Huttons, via EdgeProp) [Reported]
 - Preview / booking: 13 Feb / 27 Feb 2027 (developer preliminary information as reported) [Reported]
 - Unit sizes: 474 – 1,561 sq ft; shops 409 sq ft [Confirmed]
 - Other uses: 7 shops, 1 childcare centre [Confirmed]
@@ -38,7 +38,7 @@ Each fact is labelled Confirmed (URA, LTA, SGX/Bursa filings, major press), Repo
 - Reserve List site: 31,695.7 sqm; GFA 79,240 sqm; ≈ 930 homes; released 27 Oct 2026 [Confirmed]
 - Chuan Park resale: Caveats centred around $2,650–2,700 psf, 12 months to Aug 2026 [Reported]
 - Jack's price bands: Good value ≤ $2,650 psf; Fair $2,650–2,800; Stretch > $2,800 (project average) [Estimate]
-- Buying through an agent: Same developer list price; developer pays the agent's commission; buyers pay no agent fee [Confirmed]
+- Buying through an agent: Same developer list price; developer pays the agent's commission; buyers pay no agent fee. Not stated on the Sing Holdings project page. [Reported]
 
 ## Estimated prices (analyst range $2,600–$2,850 psf; not a price list)
 - 1 Bedroom: 474 sq ft — est. $1.23m to $1.35m
@@ -51,6 +51,8 @@ Each fact is labelled Confirmed (URA, LTA, SGX/Bursa filings, major press), Repo
 - The nearest MRT is Lorong Chuan (CC14) on the Circle Line, not a Cross Island Line station.
 - The developer is a Sing Holdings–Sunway joint venture, not Sing Holdings alone.
 - Some marketing guides say a 3-minute walk to Lorong Chuan MRT. The figure used here is about 400 m. Botanic Gardens (CC19) is four Circle Line stops from Lorong Chuan (CC14): Bishan, Marymount, Caldecott, then Botanic Gardens. CC18 is not open, so 19 minus 14 is not the stop count. Kovan and Ang Mo Kio are 2 stops, Caldecott 3, MacPherson 4, Newton 5.
+- February 2027 is an expected launch window from Huttons, via EdgeProp and 99.co. The Sing Holdings project page does not state the month, so it is Reported. The 13 and 27 February dates are also Reported.
+- The Australian International School is at 1 Lorong Chuan. Nanyang Junior College is at 128 Serangoon Avenue 3. Neither is a measured walk from the site.
 - One Chuan Grove uses Chuan Grove Parcels 1 and 2. The third Chuan Grove site (Reserve List, 27 Oct 2026, ≈930 homes) is separate and unsold.
 
 ## Pages

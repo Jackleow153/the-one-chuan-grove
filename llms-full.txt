@@ -15,7 +15,7 @@ Each fact is labelled Confirmed (URA, LTA, SGX/Bursa filings, major press), Repo
 - Combined GFA: 979,924 sq ft; in-principle amalgamation approval; construction from 2H 2026 [Confirmed]
 - Blended land rate: $1,355 psf ppr (our division of total price by GFA) [Estimate]
 - Homes: 1,056 apartments; one 24-storey and four 27-storey blocks [Confirmed]
-- Expected launch: February 2027 (Huttons, via EdgeProp) [Confirmed]
+- Expected launch: February 2027 (Huttons, via EdgeProp) [Reported]
 - Preview / booking: 13 Feb / 27 Feb 2027 (developer preliminary information as reported) [Reported]
 - Unit sizes: 474 – 1,561 sq ft; shops 409 sq ft [Confirmed]
 - Other uses: 7 shops, 1 childcare centre [Confirmed]
@@ -38,7 +38,7 @@ Each fact is labelled Confirmed (URA, LTA, SGX/Bursa filings, major press), Repo
 - Reserve List site: 31,695.7 sqm; GFA 79,240 sqm; ≈ 930 homes; released 27 Oct 2026 [Confirmed]
 - Chuan Park resale: Caveats centred around $2,650–2,700 psf, 12 months to Aug 2026 [Reported]
 - Jack's price bands: Good value ≤ $2,650 psf; Fair $2,650–2,800; Stretch > $2,800 (project average) [Estimate]
-- Buying through an agent: Same developer list price; developer pays the agent's commission; buyers pay no agent fee [Confirmed]
+- Buying through an agent: Same developer list price; developer pays the agent's commission; buyers pay no agent fee. Not stated on the Sing Holdings project page. [Reported]
 
 ## Estimated prices (analyst range $2,600–$2,850 psf; not a price list)
 - 1 Bedroom: 474 sq ft — est. $1.23m to $1.35m
@@ -51,6 +51,8 @@ Each fact is labelled Confirmed (URA, LTA, SGX/Bursa filings, major press), Repo
 - The nearest MRT is Lorong Chuan (CC14) on the Circle Line, not a Cross Island Line station.
 - The developer is a Sing Holdings–Sunway joint venture, not Sing Holdings alone.
 - Some marketing guides say a 3-minute walk to Lorong Chuan MRT. The figure used here is about 400 m. Botanic Gardens (CC19) is four Circle Line stops from Lorong Chuan (CC14): Bishan, Marymount, Caldecott, then Botanic Gardens. CC18 is not open, so 19 minus 14 is not the stop count. Kovan and Ang Mo Kio are 2 stops, Caldecott 3, MacPherson 4, Newton 5.
+- February 2027 is an expected launch window from Huttons, via EdgeProp and 99.co. The Sing Holdings project page does not state the month, so it is Reported. The 13 and 27 February dates are also Reported.
+- The Australian International School is at 1 Lorong Chuan. Nanyang Junior College is at 128 Serangoon Avenue 3. Neither is a measured walk from the site.
 - One Chuan Grove uses Chuan Grove Parcels 1 and 2. The third Chuan Grove site (Reserve List, 27 Oct 2026, ≈930 homes) is separate and unsold.
 
 ## Pages
@@ -292,7 +294,7 @@ What's new
 
 27 Oct 2026Chuan Park reaches 99% sold ConfirmedAverage $2,594 psf on lodged caveats, according to EdgeProp. Details
 
-27 Oct 2026Launch planned for February 2027 ConfirmedHuttons' CEO told EdgeProp that One Chuan Grove is planned for launch in February 2027. Details
+27 Oct 2026Launch planned for February 2027 ReportedHuttons' CEO told EdgeProp that One Chuan Grove is planned for launch in February 2027. Details
 
 All news and updates
 
@@ -330,7 +332,7 @@ Every row is traced to its source on the fact ledger.
  | Unit mix | 3 one-bed, 471 two-bed, 315 three-bed, 240 four-bed, 27 five-bed Reported
  | Other uses | 7 shops of 409 sq ft, 1 childcare centre Confirmed
  | Nearest MRT | Lorong Chuan CC14, about 400 m Confirmed
- | Expected launch | February 2027 Confirmed
+ | Expected launch | February 2027 Reported
  | Completion | Around 2030 Reported
  | Price | Not released; analyst range $2,600 – $2,850 psf Estimate
 
@@ -753,7 +755,7 @@ Kuo Chuan Presbyterian Primary School
 CHIJ Our Lady of Good Counsel
 Yangzheng Primary School
 
-Nanyang Junior College is a short walk away and the Australian International School is across the road. Confirmed
+The Australian International School is at 1 Lorong Chuan. Nanyang Junior College is at 128 Serangoon Avenue 3 and lists Lorong Chuan MRT as its nearest station. Walks from the Chuan Grove site have not been measured. Reported
 
 Primary 1 priority depends on the distance from the official home address, which is not issued until later. Do not buy on a school distance until you can check the address on MOE SchoolFinder.
 
@@ -763,7 +765,7 @@ NTP+ mall at New Tech Park, next to the site. Confirmed
 
 NEX at Serangoon and Junction 8 at Bishan, one stop each. Confirmed
 
-7 shops and a childcare centre within the development. Reported
+7 shops and a childcare centre within the development. Confirmed
 
 Serangoon Gardens' food streets and Bishan-Ang Mo Kio Park are a short drive.
 
@@ -1273,7 +1275,7 @@ Confirmed URA, LTA, filings, major pressReported Preliminary or third-party, may
  | Blocks | One 24-storey, four 27-storey Confirmed
  | Homes | 1,056 Confirmed
  | Shops | 7 units of about 409 sq ft Confirmed
- | Childcare centre | 1, reported at about 10,000 sq ft Confirmed
+ | Childcare centre | 1 Confirmed; about 10,000 sq ft Reported
  | Car parks | 2 basement levels, about 800 lots Reported
  | Pool and landscape deck | 50 m lap pool; landscape deck listed on the project signboard Reported
  | Gym | About 1,300 sq ft Reported
@@ -1439,7 +1441,7 @@ Figures were checked against these sources on 11 November 2026. Spotted somethin
 # Schools near One Chuan Grove
 URL: https://the-one-chuan-grove.sg/schools/
 
-Four primary schools are reported within 1 km of One Chuan Grove: St. Gabriel's, CHIJ Our Lady of Good Counsel, Yangzheng and Kuo Chuan Presbyterian. Nanyang Junior College is a short walk away and the Australian International School is across the road.
+Four primary schools are reported within 1 km of One Chuan Grove: St. Gabriel's, CHIJ Our Lady of Good Counsel, Yangzheng and Kuo Chuan Presbyterian. The Australian International School is at 1 Lorong Chuan. Nanyang Junior College is at 128 Serangoon Avenue 3 and lists Lorong Chuan MRT as its nearest station. Walks from the site have not been measured.
 
 Short answer
 St. Gabriel's Primary, CHIJ Our Lady of Good Counsel, Yangzheng Primary and Kuo Chuan Presbyterian Primary are reported within 1 km. Do not rely on this for Primary 1 registration until you have checked the official address on MOE SchoolFinder.
@@ -1452,7 +1454,7 @@ Reported by 99.co, PropNex and LiveFree. Bands are measured by MOE from the bloc
  | Primary, reported within 1 km | St. Gabriel's Primary School · CHIJ Our Lady of Good Counsel · Yangzheng Primary School · Kuo Chuan Presbyterian Primary School
  | Primary, reported within 1–2 km | Zhonghua Primary School · Townsville Primary School · First Toa Payoh Primary School · Guangyang Primary School · Pei Chun Public School · Maris Stella High School (Primary)
  | Secondary, reported within 2 km | Zhonghua Secondary School · Kuo Chuan Presbyterian Secondary School · Peicai Secondary School · St. Gabriel's Secondary School · Beatty Secondary School
- | Junior college & international | Nanyang Junior College (short walk) · Australian International School (across the road) · Stamford American International School
+ | Junior college & international | Nanyang Junior College (128 Serangoon Avenue 3) · Australian International School (1 Lorong Chuan) · Stamford American International School
 
 ## How Primary 1 distance priority works
 
@@ -1479,9 +1481,9 @@ Which primary schools are within 1 km of One Chuan Grove?Four are reported withi
 
 Does living at One Chuan Grove guarantee a Primary 1 place?No. Living within 1 km gives priority within each registration phase, not a guaranteed place. If a phase is oversubscribed, MOE ballots among applicants in the same distance band.
 
-Is One Chuan Grove near Nanyang Junior College?Yes. PropNex's research describes Nanyang Junior College as a short walk from the site.
+Is One Chuan Grove near Nanyang Junior College?PropNex's research describes Nanyang Junior College as a short walk from the site. The college's address is 128 Serangoon Avenue 3, and it lists Lorong Chuan as its nearest MRT. This page does not treat that as a measured walk.
 
-Are there international schools near One Chuan Grove?Yes. The Australian International School is across the road, and Stamford American International School is nearby at Woodleigh.
+Are there international schools near One Chuan Grove?The Australian International School is at 1 Lorong Chuan. Stamford American International School is at Woodleigh. Distances from the Chuan Grove site have not been measured.
 
 ## Sources
 99.co: Sing Holdings-Sunway JV wins second Chuan Grove GLS tender at S$1,331 psf ppr (Sep 2025)
@@ -1548,7 +1550,7 @@ Every development on One Chuan Grove, newest first, each dated and sourced. Chec
 
 27 Oct 2026Chuan Park reaches 99% sold ConfirmedAverage $2,594 psf on lodged caveats, according to EdgeProp. Details
 
-27 Oct 2026Launch planned for February 2027 ConfirmedHuttons' CEO told EdgeProp that One Chuan Grove is planned for launch in February 2027. Details
+27 Oct 2026Launch planned for February 2027 ReportedHuttons' CEO told EdgeProp that One Chuan Grove is planned for launch in February 2027. Details
 
 Sep 2026Project named One Chuan Grove ReportedPreliminary details: 1,056 homes, 1 to 5 bedrooms, 7 shops and a childcare centre. Details
 
@@ -1592,7 +1594,7 @@ Confirmed URA, LTA, filings, major pressReported Preliminary or third-party, may
  | Combined GFA | 979,924 sq ft; in-principle amalgamation approval; construction from 2H 2026 | Confirmed | EdgeProp
  | Blended land rate | $1,355 psf ppr (our division of total price by GFA) | Estimate | EdgeProp
  | Homes | 1,056 apartments; one 24-storey and four 27-storey blocks | Confirmed | Sing Holdings
- | Expected launch | February 2027 (Huttons, via EdgeProp) | Confirmed | EdgeProp
+ | Expected launch | February 2027 (Huttons, via EdgeProp) | Reported | EdgeProp
  | Preview / booking | 13 Feb / 27 Feb 2027 (developer preliminary information as reported) | Reported | Property Review SG
  | Unit sizes | 474 – 1,561 sq ft; shops 409 sq ft | Confirmed | Sing Holdings
  | Other uses | 7 shops, 1 childcare centre | Confirmed | Sing Holdings
@@ -1615,7 +1617,7 @@ Confirmed URA, LTA, filings, major pressReported Preliminary or third-party, may
  | Reserve List site | 31,695.7 sqm; GFA 79,240 sqm; ≈ 930 homes; released 27 Oct 2026 | Confirmed | URA
  | Chuan Park resale | Caveats centred around $2,650–2,700 psf, 12 months to Aug 2026 | Reported | ShiokNest
  | Jack's price bands | Good value ≤ $2,650 psf; Fair $2,650–2,800; Stretch > $2,800 (project average) | Estimate | Third-party reports of developer information
- | Buying through an agent | Same developer list price; developer pays the agent's commission; buyers pay no agent fee | Confirmed | Third-party reports of developer information
+ | Buying through an agent | Same developer list price; developer pays the agent's commission; buyers pay no agent fee. Not stated on the Sing Holdings project page. | Reported | Not on the developer project page
 
 Free to cite with attribution to the One Chuan Grove Guide (the-one-chuan-grove.sg). Last verified 11 November 2026.
 
