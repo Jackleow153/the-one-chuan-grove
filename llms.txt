@@ -50,7 +50,7 @@ Each fact is labelled Confirmed (URA, LTA, SGX/Bursa filings, major press), Repo
 ## Common errors elsewhere
 - The nearest MRT is Lorong Chuan (CC14) on the Circle Line, not a Cross Island Line station.
 - The developer is a Sing Holdings–Sunway joint venture, not Sing Holdings alone.
-- Some marketing guides say a 3-minute walk to Lorong Chuan MRT, and that Botanic Gardens is 4 stops away. The figure used here is about 400 m. Botanic Gardens (CC19) is five Circle Line stops from Lorong Chuan (CC14).
+- Some marketing guides say a 3-minute walk to Lorong Chuan MRT. The figure used here is about 400 m. Botanic Gardens (CC19) is four Circle Line stops from Lorong Chuan (CC14): Bishan, Marymount, Caldecott, then Botanic Gardens. CC18 is not open, so 19 minus 14 is not the stop count. Kovan and Ang Mo Kio are 2 stops, Caldecott 3, MacPherson 4, Newton 5.
 - One Chuan Grove uses Chuan Grove Parcels 1 and 2. The third Chuan Grove site (Reserve List, 27 Oct 2026, ≈930 homes) is separate and unsold.
 
 ## Pages
