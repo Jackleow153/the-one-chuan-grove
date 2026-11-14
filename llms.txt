@@ -1,6 +1,6 @@
 # One Chuan Grove Guide
 
-> Independent, sourced guide to One Chuan Grove, a 99-year leasehold condominium of about 1,056 homes at Chuan Grove, off Lorong Chuan, District 19, Singapore. Developer: Chuan Grove Pte Ltd (Sing Holdings Residential 65%, Sunway Developments 35%). Expected launch February 2027. No price list released as of 11 November 2026. Written by Jack Leow, CEA Reg. R074023I, PropNex Realty Pte Ltd (Licence L3008022J).
+> Independent, sourced guide to One Chuan Grove, a 99-year leasehold condominium of about 1,056 homes at Chuan Grove, off Lorong Chuan, District 19, Singapore. Developer: Chuan Grove Pte Ltd (Sing Holdings Residential 65%, Sunway Developments 35%). Expected launch February 2027. No price list released as of 14 November 2026. Written by Jack Leow, CEA Reg. R074023I, PropNex Realty Pte Ltd (Licence L3008022J).
 
 Each fact is labelled Confirmed (URA, LTA, SGX/Bursa filings, major press), Reported (preliminary or third-party, may change) or Estimate.
 
@@ -21,10 +21,11 @@ Each fact is labelled Confirmed (URA, LTA, SGX/Bursa filings, major press), Repo
 - Other uses: 7 shops, 1 childcare centre [Confirmed]
 - Unit mix: 1BR 3 · 2BR 471 · 3BR 315 · 4BR 240 · 5BR 27 [Reported]
 - Facilities (partial): 1,300 sq ft gym, 2 golf simulators, indoor air-conditioned badminton/pickleball court; 5BR with private lift; childcare ≈10,000 sq ft [Reported]
+- Type codes: 18 estimated codes in PropNex OCG Insider's Guide 1.2 (as of 5 Nov 2026), subject to authority approval: 3BR 54×807, 78×840, 78×893 sq ft; 2BR Premium 646 sq ft split 54 and 155; 4BR luxury private lift 1,356 sq ft split 54 and 27. Counts still sum to 1,056. Not official floor plans. [Reported]
 - Layouts: 11 layouts: 2BR 48 / Premium 209 / Premium+Study 214; 3BR 210 / Premium 24 / Premium+Flexi 81; 4BR 51 / Premium 108 / Luxury 81; 5BR Luxury 27; 1BR 3 [Reported]
 - Facilities (full list): 50 m lap pool, spa and relaxation pools, hot/cold baths, steam room, tennis, 2 padel, outdoor pickleball, indoor badminton/pickleball, 2 golf simulators, 1,300 sq ft gym, Pilates and yoga studios, 800 m jogging path, 2 private dining rooms, 4 gourmet pavilions [Reported]
 - Car park: About 800 lots [Reported]
-- Showflat: Youngberg Terrace, near Woodleigh MRT (one marketing source) [Reported]
+- Showflat: Youngberg Terrace, near Woodleigh MRT (one marketing source). PropNex OCG Insider's Guide 1.2 (5 Nov 2026) says the showflat is not on the actual site and only dates the preview as February 2027; it does not name the street or 13 and 27 February. [Reported]
 - Basement car parks: 2 (reported from project signboard) [Reported]
 - Consultants: Architect P&T Consultants; builder Kimly Construction (reported from project signboard) [Reported]
 - Expected completion: 16 Jul 2030 (reported from project signboard) [Reported]
@@ -49,6 +50,7 @@ Each fact is labelled Confirmed (URA, LTA, SGX/Bursa filings, major press), Repo
 ## Common errors elsewhere
 - The nearest MRT is Lorong Chuan (CC14) on the Circle Line, not a Cross Island Line station.
 - The developer is a Sing Holdings–Sunway joint venture, not Sing Holdings alone.
+- Some marketing guides say a 3-minute walk to Lorong Chuan MRT, and that Botanic Gardens is 4 stops away. The figure used here is about 400 m. Botanic Gardens (CC19) is five Circle Line stops from Lorong Chuan (CC14).
 - One Chuan Grove uses Chuan Grove Parcels 1 and 2. The third Chuan Grove site (Reserve List, 27 Oct 2026, ≈930 homes) is separate and unsold.
 
 ## Pages
@@ -76,4 +78,4 @@ Each fact is labelled Confirmed (URA, LTA, SGX/Bursa filings, major press), Repo
 - [About This One Chuan Grove Guide: Author & Editorial Standards](https://the-one-chuan-grove.sg/about/): Who writes the independent One Chuan Grove Guide: Jack Leow, CEA Reg. R074023I, PropNex Realty Pte Ltd. How facts are sourced, labelled and corrected.
 - [Privacy Policy | One Chuan Grove Guide](https://the-one-chuan-grove.sg/privacy/): How the One Chuan Grove Guide collects, uses and protects personal data under Singapore's PDPA.
 
-Last verified: 2026-11-11
+Last verified: 2026-11-14

@@ -1,7 +1,7 @@
 {
  "project": "One Chuan Grove",
  "url": "https://the-one-chuan-grove.sg/",
- "verified": "2026-11-11",
+ "verified": "2026-11-14",
  "author": {
   "name": "Jack Leow",
   "cea": "R074023I",
@@ -144,6 +144,12 @@
    "source": "https://livefree.sg/project/one-chuan-grove/"
   },
   {
+   "fact": "Type codes",
+   "value": "18 estimated codes in PropNex OCG Insider's Guide 1.2 (as of 5 Nov 2026), subject to authority approval: 3BR 54×807, 78×840, 78×893 sq ft; 2BR Premium 646 sq ft split 54 and 155; 4BR luxury private lift 1,356 sq ft split 54 and 27. Counts still sum to 1,056. Not official floor plans.",
+   "status": "Reported",
+   "source": null
+  },
+  {
    "fact": "Facilities (full list)",
    "value": "50 m lap pool, spa and relaxation pools, hot/cold baths, steam room, tennis, 2 padel, outdoor pickleball, indoor badminton/pickleball, 2 golf simulators, 1,300 sq ft gym, Pilates and yoga studios, 800 m jogging path, 2 private dining rooms, 4 gourmet pavilions",
    "status": "Reported",
@@ -157,7 +163,7 @@
   },
   {
    "fact": "Showflat",
-   "value": "Youngberg Terrace, near Woodleigh MRT (one marketing source)",
+   "value": "Youngberg Terrace, near Woodleigh MRT (one marketing source). PropNex OCG Insider's Guide 1.2 (5 Nov 2026) says the showflat is not on the actual site and only dates the preview as February 2027; it does not name the street or 13 and 27 February.",
    "status": "Reported",
    "source": "https://propertyreviewsg.com/one-chuan-grove/"
   },
