@@ -24,6 +24,9 @@ KB = compressed bytes over the wire.
 - Google Tag Manager (GTM-M4XWX8CR) is about 180 KB of the 182 KB of JavaScript on every page: 70% of a text page's weight. Changing it is Jack's decision (CLAUDE.md section 13); see `seo-backlog.md`.
 - The home page LCP (1.9 s) is the hero image; other pages paint in about 0.5-0.7 s. CLS is 0 everywhere.
 
+## Changes since the baseline
+- 21 Nov 2026: Google Tag Manager delayed until 3 s after load or the first interaction (thank-you page excepted). Re-measured after deploy below.
+
 ## Limits for future changes
 - HTML of a key page: no more than about 10% above its row here unless the extra is real content.
 - No new scripts. Images only as WebP/AVIF with width, height and lazy loading below the fold.
