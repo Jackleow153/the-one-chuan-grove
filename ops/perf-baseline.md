@@ -27,6 +27,17 @@ KB = compressed bytes over the wire.
 ## Changes since the baseline
 - 21 Nov 2026: Google Tag Manager delayed until 3 s after load or the first interaction (thank-you page excepted). Re-measured after deploy below.
 
+What loads in the first 2 seconds after the change (same method, live, commit f16c637). GTM's 180 KB still loads later, so the 6-second totals above are unchanged:
+
+| Page | Requests | KB in first 2 s | JS KB | LCP ms | CLS |
+|---|---|---|---|---|---|
+| / | 5 | 73.8 | 2.4 | 820 | 0 |
+| /price/ | 4 | 113.3 | 2.4 | 472 | 0 |
+| /floor-plans/ | 4 | 105.7 | 2.4 | 456 | 0.026 |
+| /review/ | 3 | 52.3 | 2.4 | 360 | 0 |
+| /faq/ | 3 | 53.7 | 2.4 | 356 | 0 |
+| /register/ | 3 | 48.8 | 2.4 | 572 | 0 |
+
 ## Limits for future changes
 - HTML of a key page: no more than about 10% above its row here unless the extra is real content.
 - No new scripts. Images only as WebP/AVIF with width, height and lazy loading below the fold.
