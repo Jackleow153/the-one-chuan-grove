@@ -4,6 +4,7 @@ Conflicts and open questions with no proposed change yet (CLAUDE.md section 11).
 
 ## Open
 - 2026-11-21 · **Preview 13 Feb and booking 27 Feb 2027** are Reported (developer preliminary information as relayed by marketing). No `Event` schema until Confirmed.
+- 2026-11-21 · **GA4 automatic user-provided data detection still on.** Live gtag/js for G-W41T2WTRNZ still has `__ogt_1p_data_v2` `"vtp_isAutoEnabled":true` (checked 21 Nov 2026, daily run). Jack to turn off "Automatically detect user-provided data" in Google tag settings (Data streams > web stream > Configure tag settings). Close this when the live flag reads false.
 
 ## Closed
 - 2026-11-21 · **Google Tag Manager weight.** The container (GTM-M4XWX8CR v3) holds one tag, GA4 G-W41T2WTRNZ with enhanced measurement, so there were no unused tags to remove. Jack chose to delay GTM: it now loads 3 s after page load or on the first scroll, tap or key press; the thank-you page (form conversion) still loads it immediately. Do not move it back into the critical path.
