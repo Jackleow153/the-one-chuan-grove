@@ -2,6 +2,9 @@
 [build]
   publish = "."
   command = ""
+  # Skip the deploy when a push changes only internal files (daily-run notes). Exit 0 = skip.
+  # If the commits cannot be compared, git exits non-zero and Netlify builds as normal.
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)ops' ':(exclude)seo-backlog.md' ':(exclude)data-sources.md' ':(exclude)CLAUDE.md'"
 
 # Internal working files (CLAUDE.md, seo-backlog.md, data-sources.md, ops/) must never be served.
 # The site publishes this folder as-is, so they return the 404 page with a real 404.
