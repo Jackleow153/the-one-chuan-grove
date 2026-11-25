@@ -39,7 +39,7 @@ Each fact is labelled Confirmed (URA, LTA, SGX/Bursa filings, major press), Repo
 - Thomson Reserve: 1,143 of 1,268 sold, ≈ $2,900 psf, 30–31 Oct 2026 [Confirmed]
 - Reserve List site: 31,695.7 sqm; GFA 79,240 sqm; ≈ 930 homes; released 27 Oct 2026 [Confirmed]
 - Chuan Park resale: Caveats centred around $2,650–2,700 psf, 12 months to Aug 2026 [Reported]
-- Jack's price bands: Good value ≤ $2,350 psf; Fair $2,350–2,470; Stretch > $2,470 (3-bedroom basis; from our sellingsgproperty.com analysis, 25 Nov 2026) [Estimate]
+- Jack's price bands: Good value ≤ $2,610 psf; Fair $2,610–2,740; Stretch > $2,740 (3-bedroom basis; from our sellingsgproperty.com analysis, 25 Nov 2026) [Estimate]
 - Buying through an agent: Same developer list price; developer pays the agent's commission; buyers pay no agent fee. Not stated on the Sing Holdings project page. [Reported]
 
 ## Estimated prices (analyst range $2,600–$2,850 psf; not a price list)
@@ -187,13 +187,13 @@ Price check
 
 Set before the price list is out, so the verdict can't bend to fit the prices. Jack will publish where the launch lands on the day.
 
-Good value≤ $2,350 psfIn line with its closest competitors as a new launch (Chuan Park, The Scala, Cardiff Residence, all within 400 m). Base case: about +21% after stamp duty and selling costs by 2031, and above the developer's floor of about $2,260 psf.
+Good value≤ $2,610 psfIn line with its closest competitors as a new launch (Chuan Park, The Scala, Cardiff Residence, all within 400 m), at the premium launches outside the city centre carry over nearby resale. Base case: about +21% after stamp duty and selling costs by 2031, and above the developer's floor of about $2,260 psf.
 
-Fair$2,350 – 2,470Up to 5% above its closest competitors. Base case: about +15% after costs by 2031.
+Fair$2,610 – 2,740Up to 5% above its closest competitors. Base case: about +15% after costs by 2031.
 
-Stretch> $2,470 psfOur walk-away price: more than 5% above its closest competitors. Analysts expect $2,600 to $2,800; at $2,700 the base case is about +6% by 2031, and the bear case about −7%.
+Stretch> $2,740 psfOur walk-away price: more than 5% above its closest competitors. Analysts expect $2,600 to $2,800; at $2,700 the base case is about +17% by 2031, and the bear case about +3%.
 
-Bands are for a 3-bedroom of about 893 sq ft. Basis: our full analysis at https://www.sellingsgproperty.com/condo-analysis/one-chuan-grove/ (closest competitors first: Chuan Park's launch moved to today's prices, and The Scala and Cardiff Residence resale prices plus 5% for the older area rules and a 15% new-launch premium; potential gain after stamp duty and selling costs, using those condos' average yearly price change over 4 years). Chuan Park 99% sold at an average $2,594 psf [Confirmed]. Bands are Jack's estimates [Estimate].
+Bands are for a 3-bedroom of about 893 sq ft. Basis: our full analysis at https://www.sellingsgproperty.com/condo-analysis/one-chuan-grove/ (closest competitors first: Chuan Park's launch moved to today's prices, and The Scala and Cardiff Residence resale prices plus 5% for the older area rules and the 36% premium that launches outside the city centre carry over their nearest resale; potential gain after stamp duty and selling costs, using those condos' average yearly price change over 4 years). Chuan Park 99% sold at an average $2,594 psf [Confirmed]. Bands are Jack's estimates [Estimate].
 
 See the buy, wait or skip rules
 
@@ -499,13 +499,13 @@ Confirmed URA, LTA, filings, major pressReported Preliminary or third-party, may
 
 Where the launch average lands decides the verdict. These bands are fixed now, before any prices are out.
 
-Good value≤ $2,350 psfIn line with its closest competitors as a new launch (Chuan Park, The Scala, Cardiff Residence, all within 400 m). Base case: about +21% after stamp duty and selling costs by 2031, and above the developer's floor of about $2,260 psf.
+Good value≤ $2,610 psfIn line with its closest competitors as a new launch (Chuan Park, The Scala, Cardiff Residence, all within 400 m), at the premium launches outside the city centre carry over nearby resale. Base case: about +21% after stamp duty and selling costs by 2031, and above the developer's floor of about $2,260 psf.
 
-Fair$2,350 – 2,470Up to 5% above its closest competitors. Base case: about +15% after costs by 2031.
+Fair$2,610 – 2,740Up to 5% above its closest competitors. Base case: about +15% after costs by 2031.
 
-Stretch> $2,470 psfOur walk-away price: more than 5% above its closest competitors. Analysts expect $2,600 to $2,800; at $2,700 the base case is about +6% by 2031, and the bear case about −7%.
+Stretch> $2,740 psfOur walk-away price: more than 5% above its closest competitors. Analysts expect $2,600 to $2,800; at $2,700 the base case is about +17% by 2031, and the bear case about +3%.
 
-Bands are for a 3-bedroom of about 893 sq ft. Basis: our full analysis at https://www.sellingsgproperty.com/condo-analysis/one-chuan-grove/ (closest competitors first: Chuan Park's launch moved to today's prices, and The Scala and Cardiff Residence resale prices plus 5% for the older area rules and a 15% new-launch premium; potential gain after stamp duty and selling costs, using those condos' average yearly price change over 4 years). Chuan Park 99% sold at an average $2,594 psf [Confirmed]. Bands are Jack's estimates [Estimate].
+Bands are for a 3-bedroom of about 893 sq ft. Basis: our full analysis at https://www.sellingsgproperty.com/condo-analysis/one-chuan-grove/ (closest competitors first: Chuan Park's launch moved to today's prices, and The Scala and Cardiff Residence resale prices plus 5% for the older area rules and the 36% premium that launches outside the city centre carry over their nearest resale; potential gain after stamp duty and selling costs, using those condos' average yearly price change over 4 years). Chuan Park 99% sold at an average $2,594 psf [Confirmed]. Bands are Jack's estimates [Estimate].
 
 ## What the land cost tells us
 
@@ -864,13 +864,13 @@ Confirmed URA, LTA, filings, major pressReported Preliminary or third-party, may
 
 Decided before the price list is released, so the verdict can't be fitted to the prices afterwards.
 
-Good value≤ $2,350 psfIn line with its closest competitors as a new launch (Chuan Park, The Scala, Cardiff Residence, all within 400 m). Base case: about +21% after stamp duty and selling costs by 2031, and above the developer's floor of about $2,260 psf.
+Good value≤ $2,610 psfIn line with its closest competitors as a new launch (Chuan Park, The Scala, Cardiff Residence, all within 400 m), at the premium launches outside the city centre carry over nearby resale. Base case: about +21% after stamp duty and selling costs by 2031, and above the developer's floor of about $2,260 psf.
 
-Fair$2,350 – 2,470Up to 5% above its closest competitors. Base case: about +15% after costs by 2031.
+Fair$2,610 – 2,740Up to 5% above its closest competitors. Base case: about +15% after costs by 2031.
 
-Stretch> $2,470 psfOur walk-away price: more than 5% above its closest competitors. Analysts expect $2,600 to $2,800; at $2,700 the base case is about +6% by 2031, and the bear case about −7%.
+Stretch> $2,740 psfOur walk-away price: more than 5% above its closest competitors. Analysts expect $2,600 to $2,800; at $2,700 the base case is about +17% by 2031, and the bear case about +3%.
 
-Bands are for a 3-bedroom of about 893 sq ft. Basis: our full analysis at https://www.sellingsgproperty.com/condo-analysis/one-chuan-grove/ (closest competitors first: Chuan Park's launch moved to today's prices, and The Scala and Cardiff Residence resale prices plus 5% for the older area rules and a 15% new-launch premium; potential gain after stamp duty and selling costs, using those condos' average yearly price change over 4 years). Chuan Park 99% sold at an average $2,594 psf [Confirmed]. Bands are Jack's estimates [Estimate].
+Bands are for a 3-bedroom of about 893 sq ft. Basis: our full analysis at https://www.sellingsgproperty.com/condo-analysis/one-chuan-grove/ (closest competitors first: Chuan Park's launch moved to today's prices, and The Scala and Cardiff Residence resale prices plus 5% for the older area rules and the 36% premium that launches outside the city centre carry over their nearest resale; potential gain after stamp duty and selling costs, using those condos' average yearly price change over 4 years). Chuan Park 99% sold at an average $2,594 psf [Confirmed]. Bands are Jack's estimates [Estimate].
 
 ## Buy, wait or skip
 
@@ -1618,7 +1618,7 @@ Confirmed URA, LTA, filings, major pressReported Preliminary or third-party, may
  | Thomson Reserve | 1,143 of 1,268 sold, ≈ $2,900 psf, 30–31 Oct 2026 | Confirmed | 99.co
  | Reserve List site | 31,695.7 sqm; GFA 79,240 sqm; ≈ 930 homes; released 27 Oct 2026 | Confirmed | URA
  | Chuan Park resale | Caveats centred around $2,650–2,700 psf, 12 months to Aug 2026 | Reported | ShiokNest
- | Jack's price bands | Good value ≤ $2,350 psf; Fair $2,350–2,470; Stretch > $2,470 (3-bedroom basis; from our sellingsgproperty.com analysis, 25 Nov 2026) | Estimate | Third-party reports of developer information
+ | Jack's price bands | Good value ≤ $2,610 psf; Fair $2,610–2,740; Stretch > $2,740 (3-bedroom basis; from our sellingsgproperty.com analysis, 25 Nov 2026) | Estimate | Third-party reports of developer information
  | Buying through an agent | Same developer list price; developer pays the agent's commission; buyers pay no agent fee. Not stated on the Sing Holdings project page. | Reported | Not on the developer project page
 
 Free to cite with attribution to the One Chuan Grove Guide (the-one-chuan-grove.sg). Last verified 11 November 2026.
