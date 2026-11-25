@@ -30,7 +30,7 @@ Google and AI engines reward the source with the most original, accurate, fresh 
 
 Rewording what portals already say is not information gain.
 
-**C. One clear entity.** Make it unambiguous that One Chuan Grove is the amalgamated pair of Chuan Grove GLS sites off Lorong Chuan (D19). Listings also market and search it as "Chuan Grove Residences", "Chuan Grove condo", "Chuan Grove GLS", "Chuan Lane" and "Lorong Chuan new launch".
+**C. One clear entity.** Make it unambiguous that One Chuan Grove is the amalgamated pair of Chuan Grove GLS sites off Lorong Chuan (D19). Listings also market and search it as "Chuan Grove Residences", "Chuan Grove condo", "Chuan Grove GLS", "Chuan Lane", "Lorong Chuan new launch" and "Lorong Chuan condo" (searched with price, new launch and "near MRT", Google SG autocomplete 25 Nov 2026).
 - Use the official name "One Chuan Grove" consistently everywhere.
 - Mention each alias once in an "Also known as" line on the home page and in the FAQ.
 - Put the aliases in schema `alternateName`.
