@@ -37,7 +37,7 @@ When a figure changes: update the site, `facts.json`, `llms.txt` and this file, 
 | Thomson Reserve | 1,143 of 1,268 sold, ≈ $2,900 psf, 30–31 Oct 2026 | Confirmed | https://www.99.co/singapore/insider/thomson-reserve-launch-sales/ |
 | Reserve List site | 31,695.7 sqm; GFA 79,240 sqm; ≈ 930 homes; released 27 Oct 2026 | Confirmed | https://www.ura.gov.sg/land-sales/sites-for-application/chuan-grove-oct26/ |
 | Chuan Park resale | Caveats centred around $2,650–2,700 psf, 12 months to Aug 2026 | Reported | https://shioknest.com/property/chuan-park |
-| Jack's price bands | Good value ≤ $2,560 psf; Fair $2,560–2,690; Stretch > $2,690 (3-bedroom basis; from our sellingsgproperty.com analysis, 25 Nov 2026) | Estimate | None |
+| Jack's price bands | Good value ≤ $2,350 psf; Fair $2,350–2,470; Stretch > $2,470 (3-bedroom basis; from our sellingsgproperty.com analysis, 25 Nov 2026) | Estimate | None |
 | Buying through an agent | Same developer list price; developer pays the agent's commission; buyers pay no agent fee. Not stated on the Sing Holdings project page. | Reported | None |
 
 ## Change log
